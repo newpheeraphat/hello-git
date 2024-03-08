@@ -1,0 +1,4 @@
+- git init: เริ่มต้นสร้าง git
+- git status: เช็ค status ของ git
+- git add [file | .]: เอาไฟล์เข้า staging change (เราเก็บ change อะไรเข้ามาบ้าง)
+- git commit -m ["feat: อะไรก็ได้"]: เริ่มการ commit
