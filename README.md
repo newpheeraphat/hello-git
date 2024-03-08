@@ -2,3 +2,5 @@
 - git status: เช็ค status ของ git
 - git add [file | .]: เอาไฟล์เข้า staging change (เราเก็บ change อะไรเข้ามาบ้าง)
 - git commit -m ["feat: อะไรก็ได้"]: เริ่มการ commit
+- git log: ดู Activity
+- git diff: เทียบสิ่งที่แก้กับไฟล์เก่า
