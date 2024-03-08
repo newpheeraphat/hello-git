@@ -4,3 +4,4 @@
 - git commit -m ["feat: อะไรก็ได้"]: เริ่มการ commit
 - git log: ดู Activity
 - git diff: เทียบสิ่งที่แก้กับไฟล์เก่า
+- git branch: ดูว่ามี branch อะไรบ้าง
