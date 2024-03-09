@@ -12,3 +12,6 @@
 - git push [remote-name] [branch-name]: push specific branch-name ไปที่ git-server
 - git pull [remote-name] [branch-name]: pull specifc branch-name มาที่ ตัวเอง
 - git fetch: ทำการดึง branch ทั้งหมดจาก git server มาที่ตัวเองได้
+- git checkout [commit-id]: ย้อนไปที่ commit-id นั้น
+- git checkout -b [history/branch-name]: สร้าง branch จาก commit ไอดีนั้น
+- git revert [commit-id]: revert กลับไป change 
