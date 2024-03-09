@@ -6,3 +6,4 @@
 - git diff: เทียบสิ่งที่แก้กับไฟล์เก่า
 - git branch: ดูว่ามี branch อะไรบ้าง
 - git branch -b [file-name]: สร้าง branch ใหม่
+- git merge [branch-name]: รวม branch ที่เลือก เข้ากับ current branch ที่อยู่ปัจจุบัน
