@@ -6,3 +6,7 @@
 - git diff: เทียบสิ่งที่แก้กับไฟล์เก่า
 - git branch: ดูว่ามี branch อะไรบ้าง
 - git branch -b [file-name]: สร้าง branch ใหม่
+- git merge [branch-name]: รวม branch ที่เลือก เข้ากับ current branch ที่อยู่ปัจจุบัน
+- git remote add [remote-name] [git-repository-github]: git initial ที่ git hub
+- git push --all [remote-name]: push all branch ไปที่ git-repository-github
+- git push [remote-name] [branch-name]: push specific branch-name ไปที่ git-repository-github
