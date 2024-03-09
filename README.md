@@ -14,4 +14,5 @@
 - git fetch: ทำการดึง branch ทั้งหมดจาก git server มาที่ตัวเองได้
 - git checkout [commit-id]: ย้อนไปที่ commit-id นั้น
 - git checkout -b [history/branch-name]: สร้าง branch จาก commit ไอดีนั้น
-- git revert [commit-id]: revert กลับไป change 
+- git revert [commit-id]: revert กลับไป change
+- git rebase [branch-name]: update feature code without history change (ย้ายที่ feature มาล่าสุด)
