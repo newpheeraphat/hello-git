@@ -16,3 +16,4 @@
 - git checkout -b [history/branch-name]: สร้าง branch จาก commit ไอดีนั้น
 - git revert [commit-id]: revert กลับไป change
 - git rebase [branch-name]: update feature code without history change (ย้ายที่ feature มาล่าสุด)
+- git rebase -i Head~[<number-of-commit>]: รวม commit เข้าด้วยกันว่าจะถอยหลังไปเท่าไหร่ 
